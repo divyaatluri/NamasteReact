@@ -1,0 +1,20 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "This is a scratch project for food delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Divya Atluri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyaatluri/NamasteReact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/divyaatluri/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/divyaatluri/NamasteReact#readme"
+}
